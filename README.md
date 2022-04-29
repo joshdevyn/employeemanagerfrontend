@@ -1,5 +1,7 @@
 # Employeemanagerapp
 
+Forked from getarrays for live demo of my knowledge.
+
 Frontend for App to manage employees. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
 ## Development server
